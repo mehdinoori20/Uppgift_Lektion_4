@@ -19,6 +19,9 @@ public class Main {
                 System.out.println("Num är inte större än 7");
 
             }
+            // Lägg till sista förändring
+            System.out.println("Tack för idag! ");
         }
+
     }
 
